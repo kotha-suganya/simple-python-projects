@@ -1,3 +1,4 @@
+#rock paper scissors
 import random
 
 def get_computer_choice():
@@ -38,3 +39,4 @@ def play_game():
 
 if __name__ == "__main__":  # Corrected line
     play_game()
+
